@@ -1,0 +1,13 @@
+1-650 440 120 40
+2-27
+3-30
+4-[59.52, 83.7, 93]
+5- true , false
+ 6-cant assignment to constant variable.
+7-
+8-number function undefined object object
+
+10-Anonymous,18, Anonymous, 0
+11-['white', 'black', 'gray'] , false 
+
+14-50
